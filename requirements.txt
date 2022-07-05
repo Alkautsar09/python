@@ -1,0 +1,10 @@
+streamlit==1.10.0
+face-recognition==1.3.0
+pandas==1.4.3
+numpy==1.22.4
+datatime
+cv2
+os
+time
+choice
+Image
