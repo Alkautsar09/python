@@ -1,4 +1,5 @@
 streamlit==1.10.0
+streamlit.components.v1
 face-recognition==1.3.0
 pandas==1.4.3
 numpy==1.22.4
@@ -6,5 +7,5 @@ datatime
 cv2
 os
 time
-choice
-Image
+secrets.choice
+Pillow
